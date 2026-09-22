@@ -14,13 +14,13 @@
 
 ### 🧠 About Me
 
-I build things that sit at the intersection of **AI, real-time systems, and clean UX**. From an OCR-powered health app that reads nutrition labels, to a chat platform pushing messages in under 100ms, to a water-usage prediction model with 97%+ accuracy — I like turning messy real-world problems into working software.
 
-- 🎓 Computer Science Engineering, graduating 2026
-- 💼 Previously built AI assessment modules & real-time interview workflows at **Ai Aizonics**
-- 🏆 450+ problems solved on LeetCode · 5-star on HackerRank
-- ⚙️ Comfortable across the stack: React/Next.js on the front, Node/FastAPI on the back, MongoDB/SQL underneath
+I build things that sit at the intersection of AI, real-time systems, and clean UX. From an OCR-powered health app that reads nutrition labels, to a chat platform pushing messages in under 100ms, to a water-usage prediction model with 97%+ accuracy — I like turning messy real-world problems into working software.
 
+🎓 Computer Science Engineering, graduating 2026
+💼 Previously built AI assessment modules & real-time interview workflows at Ai Aizonics
+🏆 450+ problems solved on LeetCode · 5-star on HackerRank
+⚙️ Comfortable across the stack: React/Next.js on the front, Node/FastAPI on the back, MongoDB/SQL underneath
 ---
 
 ### 🛠️ Built With
